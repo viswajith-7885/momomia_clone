@@ -1,5 +1,12 @@
 @import url(https://fonts.googleapis.com/css?family=Merriweather);
 
+
+
+a:hover {
+  cursor: pointer;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+  border-radius: 2rem;
+}
 .icon img {
   width: 3rem;
   height: auto;
@@ -543,3 +550,5 @@ footer a {
 .checkIcon {
   color: green;
 }
+
+
