@@ -226,8 +226,9 @@ a:hover {
   border: 1px solid #a8763e;
   background-color: white;
   color: #6f1a07;
-  padding: 1px 5px;
+  padding: 1px 20px;
   font-family: "Roboto";
+  letter-spacing: 5px;
 }
 
 .product-box-layout4 {
