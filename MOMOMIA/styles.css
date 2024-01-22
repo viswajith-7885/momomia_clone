@@ -30,10 +30,13 @@ p {
 
 a {
   text-decoration: none;
+  transition: .3s;
 }
 
 a:hover {
   cursor: pointer;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+  border-radius: 2rem;
 }
 
 .container {
@@ -1048,6 +1051,7 @@ font-size: 1rem;
 }
 #shoppingclass{
 position: relative;
+left: 0.5rem;
 }
 #zero{
 position: relative !important;
