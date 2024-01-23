@@ -549,7 +549,8 @@ a:hover {
 }
 
 .icon-wrapper {
-  background-color: #e89b3d;
+  /* background-color: #e89b3d; */
+  background-color: #3cfd48;
   padding: 2px 6px;
   border-radius: 3px;
   padding-top: 0;
