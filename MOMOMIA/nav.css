@@ -93,10 +93,7 @@ footer a {
   font-size: 1.1rem;
   font-weight: 500;
   font-family: "Ubuntu", sans-serif;
- 
 }
-
-
 
 header {
   display: flex;
@@ -132,7 +129,7 @@ li {
   }
 }
 
-@media screen and (max-width: 1000px){
+@media screen and (max-width: 1000px) {
   .navbar-expand-lg {
     height: auto;
   }

@@ -1,7 +1,5 @@
 @import url(https://fonts.googleapis.com/css?family=Merriweather);
 
-
-
 a:hover {
   cursor: pointer;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
@@ -247,8 +245,6 @@ footer a {
 
 .cartContentDiv {
   padding: 10px 0 10px 0;
-
-
 }
 
 .cartContentRow .col-2 {
@@ -282,7 +278,6 @@ footer a {
   color: rgb(10, 9, 9);
   width: 90%;
   margin: 5px auto;
-  
 }
 
 /* Section for total amount on Cart */
@@ -355,7 +350,6 @@ footer a {
   font-size: 2.3rem;
   transform: scale(1.2);
 }
-
 
 *::-webkit-scrollbar {
   width: 15px;
@@ -550,5 +544,3 @@ footer a {
 .checkIcon {
   color: green;
 }
-
-
