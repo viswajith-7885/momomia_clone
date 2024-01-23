@@ -35,7 +35,7 @@ The website is minimized as much as possible to avoid errors when entering data.
 ![updatedMomomia4](https://user-images.githubusercontent.com/89804314/194808259-bdb3e8a9-8d3c-4bfd-a8e4-e971653836a3.jpg)
 
 ## Tech Stack <a name = "tech_stack"></a>
-<img alt="HTML5" src="https://img.shields.io/badge/html5-%23fca9ae.svg?style=for-the-badge&logo=html5&logoColor=140200"/>
+< alt="HTML5" src="https://img.shields.io/badge/html5-%23fca9ae.svg?style=for-the-badge&logo=html5&logoColor=140200"/>
 <img alt="CSS3" src="https://img.shields.io/badge/css3-%23ffd2ce.svg?style=for-the-badge&logo=css3&logoColor=140200"/>
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23e4626b.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 
