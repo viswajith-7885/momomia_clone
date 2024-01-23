@@ -46,12 +46,12 @@ a:hover {
 .contact .content h2 {
   font-size: 50px;
   font-weight: 400;
-  color: beige;
+  color: rgb(255, 193, 7);
 }
 .contact .content p {
   padding-top: 4px;
-  font-size: 26px;
-  font-weight: 275;
+  font-size: 22px;
+  font-weight: 200;
   color: beige;
 }
 .container {
